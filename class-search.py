@@ -6,6 +6,7 @@ import smtplib
 from flask import Flask, request
 
 
+
 app = Flask(__name__)
 
 class_list_dictionary = dict()
